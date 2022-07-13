@@ -1,2 +1,3 @@
 # 7am-frontend
-webapp
+This is for 7am-frontend
+git basics course
